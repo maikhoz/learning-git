@@ -1,1 +1,2 @@
-# learning-git
+# Learning Git
+Git is awesome.
